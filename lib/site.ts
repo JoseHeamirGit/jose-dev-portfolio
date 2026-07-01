@@ -9,6 +9,7 @@ export const siteConfig = {
     { label: "About", href: "#about" },
     { label: "Stack", href: "#stack" },
     { label: "Experience", href: "#experience" },
+    { label: "AI", href: "#ai" },
     { label: "Expertise", href: "#expertise" },
   ],
   links: {
