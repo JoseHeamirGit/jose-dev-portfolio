@@ -6,9 +6,11 @@ export const siteConfig = {
   url: "https://jose-dev-portfolio.netlify.app",
   navItems: [
     { label: "Home", href: "#home" },
-    { label: "Work", href: "#work" },
+    { label: "About", href: "#about" },
     { label: "Stack", href: "#stack" },
-    { label: "Contact", href: "#contact" },
+    { label: "Experience", href: "#experience" },
+    { label: "AI", href: "#ai" },
+    { label: "Expertise", href: "#expertise" },
   ],
   links: {
     github: "https://github.com/",
